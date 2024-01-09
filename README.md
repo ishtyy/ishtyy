@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Abdullah, currently studying at CSE,BUET. I am going to share my projects and codes here.
+Happy CODING!!!
 
 <!--
 **ishtyy/ishtyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -25,17 +25,17 @@
 
 ---
 
-## 🚀 About Me
-> 🎯 **Currently Focusing** on building **scalable web applications** and exploring **deep learning** architectures.
+##  About Me
+>  **Currently Focusing** on building **scalable web applications** and exploring **deep learning** architectures.
 
-* 🎓 Studying Computer Science and Engineering at **BUET**
-* 💻 Passionate about **full-stack development** and **AI/ML**
-* 🌱 Always learning and experimenting with new technologies to solve complex problems
-* 🤝 Open to collaborating on innovative projects and contributing to open source
+*  Studying Computer Science and Engineering at **BUET**
+*  Passionate about **full-stack development** and **AI/ML**
+*  Always learning and experimenting with new technologies to solve complex problems
+*  Open to collaborating on innovative projects and contributing to open source
 
 ---
 
-## 💡 My Expertise
+##  My Expertise
 <div align="center">
   <img src="https://i.pinimg.com/originals/cc/33/cd/cc33cdb7eff28957027a2eb858dbcf94.gif" alt="My Expertise" width="400"/>
 </div>
@@ -43,7 +43,7 @@
 
 Here's a detailed breakdown of my technical skills:
 
-### 💻 Programming Languages
+###  Programming Languages
 *My core languages for problem-solving, algorithms, and development.*
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -53,7 +53,7 @@ Here's a detailed breakdown of my technical skills:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </div>
 
-### 🌐 Full-Stack Development (MERN/PERN Stack Focus)
+###  Full-Stack Development (MERN/PERN Stack Focus)
 *Building responsive and dynamic web applications.*
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
@@ -74,7 +74,7 @@ Here's a detailed breakdown of my technical skills:
   <img src="https://img.shields.io/badge/Lightkurve-000000?style=for-the-badge&labelColor=50A3A0&logoColor=white" alt="Lightkurve"/>
 </div>
 
-### 🎨 Graphics & Visualizations
+###  Graphics & Visualizations
 *Working with real-time graphics and data plotting.*
 <div align="center">
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
@@ -84,7 +84,7 @@ Here's a detailed breakdown of my technical skills:
 
 ---
 
-## 🏆 Achievements & Badges
+##  Achievements & Badges
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ishtyy&theme=radical&no-border=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
@@ -93,7 +93,7 @@ Here's a detailed breakdown of my technical skills:
 
 ---
 
-## 📈 GitHub Performance
+##  GitHub Performance
 A snapshot of my recent activity and language proficiency.
 
 <div align="center">
@@ -110,7 +110,7 @@ A snapshot of my recent activity and language proficiency.
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 ### [🌍 TripTo](https://github.com/ishtyy/TripTo)
 A social platform for travel lovers combining Pinterest-style discovery, Tumblr-like microblogging, and Trivago's booking ease.  
@@ -126,7 +126,7 @@ Database Management System using JavaFX framework with CSS styling for IPL data.
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishtyy&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=00D4FF" alt="Activity Graph" width="90%"/>
@@ -134,18 +134,18 @@ Database Management System using JavaFX framework with CSS styling for IPL data.
 
 ---
 
-## 💡 Quote of the Day
+##  Quote of the Day
 
 <div align="center">
 
-**"First, solve the problem. Then, write the code."** - John Johnson
+**"When you have something to say, silence is a lie."**
 
 </div>
 
 ---
 
 <div align="center">
-  <h3>🔥 Let's Connect and Build Something Amazing Together!</h3>
+  <h3> Let's Connect and Build Something Amazing Together!</h3>
   <br>
-  <strong>Happy Coding! 👨‍💻</strong>
+  <strong>Happy Coding! </strong>
 </div>

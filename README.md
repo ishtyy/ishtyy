@@ -5,7 +5,7 @@
 <div align="center">
   <h1> Abdullah Bin Hasan | @ishtyy</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;CSE+Student+%40+BUET;Machine+Learning+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=CSE+Student+%40+BUET;Machine+Learning+Enthusiast;Problem+Solver" alt="Typing SVG" />
   <br>
   <a href="https://www.linkedin.com/in/ishtyyyy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>

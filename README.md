@@ -11,7 +11,7 @@
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&v=2" alt="LinkedIn"/>
   </a>
   <a href="https://kaggle.com/ishtyy">
-    <img src="https://img.shields.io/badge/Kaggle-FCFCFC?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="K"/>
+    <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="K"/>
   </a>
   <a href="https://discord.com/users/731060166694273054">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
